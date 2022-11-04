@@ -181,3 +181,8 @@ std::string decryptVigenere(std::string ciphertext, std::string keyword){
     }
     return returnVal;
 }
+
+std::string solve(std::string encrypted_string){
+    //call vector using std::vector<valueType> variableName {val, val, val};
+    //add by using .push-back
+}
