@@ -183,6 +183,7 @@ std::string decryptVigenere(std::string ciphertext, std::string keyword){
 }
 
 std::string solve(std::string encrypted_string){
+    //use decrypt caesar 26 times
     //call vector using std::vector<valueType> variableName {val, val, val};
     //add by using .push-back
 }
